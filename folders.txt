@@ -1,3 +1,4 @@
-static
-templates
-.database
+css
+icons
+images
+js
